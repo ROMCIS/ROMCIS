@@ -1,3 +1,3 @@
 # - DeepSide 🤫 ...
 
-             ![a_85bf3f1125b11a595406a8ca445f1db7](https://user-images.githubusercontent.com/102293840/187505406-3ae7b565-33dc-48db-87f1-e413da9087bc.gif)
+![a_85bf3f1125b11a595406a8ca445f1db7](https://user-images.githubusercontent.com/102293840/187505406-3ae7b565-33dc-48db-87f1-e413da9087bc.gif)
