@@ -1,4 +1,3 @@
 # - DeepSide 🤫 ...
 
-
-![fddb355d4d563f6f0cb74b0180ae508b3271c018_hq](https://user-images.githubusercontent.com/102293840/187505288-406f4d64-f2e7-4550-8cef-f03aef2819c7.gif)
+             ![a_85bf3f1125b11a595406a8ca445f1db7](https://user-images.githubusercontent.com/102293840/187505406-3ae7b565-33dc-48db-87f1-e413da9087bc.gif)
